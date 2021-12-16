@@ -1,4 +1,4 @@
-# GNU General Public License v3.0 - Summary
+# GNU General Public License v3.0 - Résumé
 
 GitHub donne un résumé de chaque licence avec les autorisations, limites, conditions dans l'en-tête de la consultation d'une licence sur son site.
 
