@@ -4,5 +4,5 @@ GitHub donne un résumé de chaque licence avec les autorisations, limites, cond
 
 Nous avions besoin de ce résumé en français. Nous en proposons donc une traduction (en partageant la version anglaise pour comparaison et source).
 
-- (Version anglaise)[gnu-gpl-3-summary-en.md]
-- (Version française)[gnu-gpl-3-resume-fr.md]
+- [Version anglaise](gnu-gpl-3-summary-en.md)
+- [Version française](gnu-gpl-3-resume-fr.md)
